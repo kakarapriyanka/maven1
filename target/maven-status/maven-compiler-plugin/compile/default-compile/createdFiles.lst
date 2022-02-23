@@ -1,0 +1,5 @@
+com/priyanka/product/bo/ProductIBO.class
+com/priyanka/product/dto/Product.class
+com/priyanka/product/dao/ProductDAO.class
+com/priyanka/product/dao/ProductDAOImpl.class
+com/priyanka/product/bo/ProductBOImp.class
